@@ -246,7 +246,7 @@ footer li {
             list-style-type: none;
     }
     nav.navigation-all {
-        max-width: 375px;
+        max-width: 360px;
         font-family: 'Raleway', sans-serif;
         max-width: 1200px;
         color: white;
@@ -260,7 +260,7 @@ footer li {
     }
 
     .navigation-list-main li {
-        margin-right: 20px;
+        margin-right: 18px;
         cursor: pointer;
     }
 
