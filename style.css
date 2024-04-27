@@ -300,10 +300,12 @@ footer li {
         }
         .banner-text p {
             font-family: 'Open Sans', sans-serif;
-            line-height: 1.5;
-            font-size: 15px;
-            font-weight: 545;
+            line-height: 1.6;
+            font-size: 14px;
+            font-weight: 500;
             color: hsl(243, 87%, 12%);
+            max-width: 310px;
+            margin: 0px auto;
         }
         .get-started {
             margin-left: 20px;
