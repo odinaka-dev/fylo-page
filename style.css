@@ -263,7 +263,7 @@ footer li {
     }
 
     .navigation-list-main li {
-        margin-right: 18px;
+        margin-right: 25px;
         cursor: pointer;
     }
 
@@ -300,12 +300,13 @@ footer li {
         }
         .banner-text p {
             font-family: 'Open Sans', sans-serif;
-            line-height: 1.6;
+            line-height: 1.7;
             font-size: 14px;
             font-weight: 500;
-            color: hsl(243, 87%, 12%);
+            color: hsl(260, 2%, 38%);
             max-width: 310px;
             margin: 0px auto;
+            padding-bottom: 40px;
         }
         .get-started {
             margin-left: 20px;
@@ -357,6 +358,15 @@ footer li {
             grid-template-columns: repeat(1, 1fr);
             grid-row-gap: 20px;
             text-align: center;
+        }
+        .productive-all2 p {
+            font-size: 15px;
+            line-height: 1.6;
+            max-width: 350px;
+            margin: 0px auto;
+        }
+        .productive-all2 h4 {
+            padding-top: 20px;
         }
         .avatar-paragraph {
             text-align: left;
